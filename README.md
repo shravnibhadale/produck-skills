@@ -1,5 +1,7 @@
 # 🦆 Produck
 
+https://www.star-history.com/?repos=YuvBindal%2Fproduck-oss&type=date&legend=top-left
+
 **Your users talk. Your fixes ship.**
 
 Produck turns user feedback into shipped code. Users report issues right where they happen — in your app, on the exact element that's broken — and Produck's coding agents pick it up, reproduce it, write the fix, and open the PR. All you do is review and merge.
