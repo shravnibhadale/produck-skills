@@ -2,17 +2,16 @@
 
 **High-quality, user-experience-centered skills for your coding agents.**
 
+This repo is our open-source, documentation-driven collection of [agent skills](https://code.claude.com/docs/en/skills) to help you build products users love.
+Each skill is a folder of markdown that teaches a coding agent (Claude Code, Cursor, Codex, Copilot,
+and others) how to ship features and fixes that your users want to improve product-market fit.
+
+— starting with turning messy user requests into context-rich
+PRDs your agents can actually execute.
+
 ![Star History Chart](https://api.star-history.com/svg?repos=tryproduck%2Fproduck-skills&type=timeline&legend=top-left)
 
 > ⭐ **If these skills are useful, [star the repo](https://github.com/tryproduck/produck-skills)** — it helps other builders find it.
-
-An open-source, documentation-driven collection of [agent skills](https://code.claude.com/docs/en/skills).
-Each skill is a folder of markdown that teaches a coding agent (Claude Code, Cursor, Codex, Copilot,
-and others) how to do one thing well — starting with turning messy user requests into context-rich
-PRDs your agents can actually execute.
-
-The whole project is centered on **user experience**: getting from what a user actually wants to
-shipped, aligned work without the agent guessing.
 
 ---
 
@@ -50,10 +49,9 @@ skills only.
 
 ## About Produck
 
-These skills come from the team building [Produck](https://tryproduck.com) — **your users talk, your
-fixes ship.** Produck turns user feedback into shipped code: users report issues in context, and
-coding agents reproduce, fix, and open the PR. The same obsession with capturing real user intent
-powers this skills collection.
+These skills come from the team building [Produck](https://tryproduck.com) — **Build products your users love.** 
+
+Produck enables apps to capture in-context feedback from their users and rapidly ship features and fixes that improve product-market fit.
 
 - 🌐 Website: [tryproduck.com](https://tryproduck.com)
 - 📚 Docs: [docs.tryproduck.com](https://docs.tryproduck.com)
