@@ -2,9 +2,9 @@
 
 **High-quality, user-experience-centered skills for your coding agents.**
 
-![Star History Chart](https://api.star-history.com/svg?repos=YuvBindal%2Fproduck-oss&type=timeline&legend=top-left)
+![Star History Chart](https://api.star-history.com/svg?repos=tryproduck%2Fproduck-skills&type=timeline&legend=top-left)
 
-> ⭐ **If these skills are useful, [star the repo](https://github.com/YuvBindal/produck-oss)** — it helps other builders find it.
+> ⭐ **If these skills are useful, [star the repo](https://github.com/tryproduck/produck-skills)** — it helps other builders find it.
 
 An open-source, documentation-driven collection of [agent skills](https://code.claude.com/docs/en/skills).
 Each skill is a folder of markdown that teaches a coding agent (Claude Code, Cursor, Codex, Copilot,
@@ -21,7 +21,7 @@ shipped, aligned work without the agent guessing.
 One line installs every skill in this repo into your coding agent:
 
 ```bash
-npx skills add YuvBindal/produck-oss
+npx skills add tryproduck/produck-skills
 ```
 
 That's it. It uses the open [`skills`](https://github.com/vercel-labs/skills) CLI (no global install,
