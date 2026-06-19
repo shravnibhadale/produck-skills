@@ -54,4 +54,4 @@ Produck enables apps to capture in-context feedback from their users and rapidly
 
 ## License
 
-[MIT](LICENSE)
+[Apache-2.0](LICENSE)

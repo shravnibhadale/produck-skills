@@ -1,7 +1,7 @@
 ---
 name: user-alignment
 description: Use when turning a vague or messy user request into an aligned, agent-executable PRD. Converts raw requests into testable specs with scope, phases, acceptance criteria, and explicit do-not-do boundaries for coding agents. Triggers on planning a feature from a rough ask, writing a PRD/spec, or aligning on intent before code.
-license: MIT
+license: Apache-2.0
 metadata:
   author: produck
   version: "1.0.0"

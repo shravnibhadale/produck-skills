@@ -34,7 +34,7 @@ skills/
 ---
 name: your-skill-name
 description: Use when <trigger>. <What it does and the outcome it produces.> Triggers on <concrete situations>.
-license: MIT
+license: Apache-2.0
 metadata:
   author: your-handle
   version: "1.0.0"
@@ -73,3 +73,8 @@ description triggers it on the situations you intended.
 - [ ] The skill is UX-centered and operational, not a generic explainer.
 - [ ] Added a row to the **Skills catalog** table in `README.md`.
 - [ ] Installed and verified the skill locally in at least one agent.
+
+## Contribution licensing
+
+By opening a pull request, you agree that your contribution is submitted under the same
+[Apache-2.0 license](LICENSE) as the rest of this repository.
